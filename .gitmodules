@@ -1,0 +1,3 @@
+[submodule "examples/cloud-ops-sandbox"]
+	path = examples/cloud-ops-sandbox
+	url = https://github.com/deekalra/cloud-ops-sandbox.git
